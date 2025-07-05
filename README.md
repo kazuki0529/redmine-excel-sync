@@ -1,0 +1,2 @@
+# RedmineExcelSync
+RedmineとExcelでデータ同期するツール

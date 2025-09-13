@@ -8,6 +8,20 @@ dist
 # lib
 lib
 
+# src
+## Ariawase
+src/ArrayEx.cls
+src/Assert.bas
+src/Core.bas
+src/Ext.bas
+src/Func.cls
+src/IO.bas
+src/MonkeyTest.cls
+src/Tuple.cls
+# vba-json
+src/JsonConverter.bas
+
+
 # Office temporary files
 ~$*
 
